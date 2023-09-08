@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01_5_Ein_Ausgabefunktion_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_5_Ein_Ausgabefunktion_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_5_Ein_Ausgabefunktion_-Debug-92ee8dffa041dd9b8398.json",
+					"name" : "01_5_Ein_Ausgabefunktion_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/igeis/Desktop/git/aufgaben-grundlagen-informatik/01.5_Ein-Ausgabefunktion/cmake-build-debug",
+		"source" : "C:/Users/igeis/Desktop/git/aufgaben-grundlagen-informatik/01.5_Ein-Ausgabefunktion"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

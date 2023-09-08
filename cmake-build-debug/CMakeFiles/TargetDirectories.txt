@@ -1,0 +1,3 @@
+C:/Users/igeis/Desktop/git/aufgaben-grundlagen-informatik/01.5_Ein-Ausgabefunktion/cmake-build-debug/CMakeFiles/01_5_Ein_Ausgabefunktion_.dir
+C:/Users/igeis/Desktop/git/aufgaben-grundlagen-informatik/01.5_Ein-Ausgabefunktion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/igeis/Desktop/git/aufgaben-grundlagen-informatik/01.5_Ein-Ausgabefunktion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
